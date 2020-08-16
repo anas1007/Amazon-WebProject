@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1596825324 source:e:\university\semester 6\computer graphics\snake game project\game.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<ctime>
+	"game.h"
+
+1596644305 e:\university\semester 6\computer graphics\snake game project\game.h
+
+1596644308 source:e:\university\semester 6\computer graphics\snake game project\main.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	"game.h"
+	<stdlib.h>
+
